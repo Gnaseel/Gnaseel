@@ -15,7 +15,9 @@ I'm a developer who is passionate of sensor fusion, deep learning, autonomous dr
 <img src="https://img.shields.io/badge/-VScode-23A9F2?style=plastic&logo=Visual%20Studio%20Code&logoColor=white"/>
 <img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-white?&style=plastic&logo=pytorch&logoColor=FF5500">
 </p>
+
 ---
+
 <details>
   <summary> Research & Paper</summary><br/>
 
