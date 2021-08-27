@@ -2,7 +2,12 @@
 <!-- 
 Sensor fusion 
  -->
-I'm a developer who is passionate of sensor fusion, deep learning, autonomous driving
+I'm a developer who is passionate of sensor fusion, deep learning, autonomous driving  
+
+  
+
+
+#### ***The way is lit, the path is clear. We only require the strength to follow it.***
 
 ---
 
