@@ -1,4 +1,4 @@
-### Hi, I'm Gnaseel
+## Hi, I'm Gnaseel
 <!-- 
 Sensor fusion 
  -->
@@ -11,7 +11,7 @@ I'm a developer who is passionate of sensor fusion, deep learning, autonomous dr
 
 ---
 
-### Main Skill
+## Main Skill
 * Skills & Env  
 <p>
 <img alt="python" src="https://img.shields.io/badge/python-FFD400?&style=plastic&logo=python&logoColor=white">
@@ -29,24 +29,25 @@ I'm a developer who is passionate of sensor fusion, deep learning, autonomous dr
 
 
 </details>
-
-### Carrer 
+<br/>
+## Carrer 
+<br/>
 **2020.09 ~ 2021.04** ---- Taeyang Metal Industrial(태양금속공업) Autonomous cart development project
 > * Localization - Localization with 3D LiDAR SLAM  
 > * Planning     - Motion Planning & Global path generate   
 
 **2021.08 ~ Now** ---- Hana VisionTech(하나비전테크) welding robot project
 > * UI - Development of a welding robot interface for users and developers
-
-### Competition
-
+<br/>
+## Competition
+<br/>
 **2020.06 ~ 2020.10** ---- 2020 국제대학생 창작자동차 경진대회 참가  
 **2020.07 ~ 2021.03** ---- 2021 현대자동차그룹 자율주행 챌린지 참가  
 **2021.03 ~ Now......** ---- 2021 국제대학생 창작자동차 경진대회 참가  
 
-
-### Project
-
+<br/>
+## Project
+<br/>
 * LaneDetection with Deep learning
 * Parallel Processing
     * Lane detection
